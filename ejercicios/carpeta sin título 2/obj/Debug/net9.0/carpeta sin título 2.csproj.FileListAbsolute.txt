@@ -1,0 +1,14 @@
+/Users/bert/Desktop/carpeta sin título 2/bin/Debug/net9.0/carpeta sin título 2
+/Users/bert/Desktop/carpeta sin título 2/bin/Debug/net9.0/carpeta sin título 2.deps.json
+/Users/bert/Desktop/carpeta sin título 2/bin/Debug/net9.0/carpeta sin título 2.runtimeconfig.json
+/Users/bert/Desktop/carpeta sin título 2/bin/Debug/net9.0/carpeta sin título 2.dll
+/Users/bert/Desktop/carpeta sin título 2/bin/Debug/net9.0/carpeta sin título 2.pdb
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/carpeta sin título 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/carpeta sin título 2.AssemblyInfoInputs.cache
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/carpeta sin título 2.AssemblyInfo.cs
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/carpeta sin título 2.csproj.CoreCompileInputs.cache
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/carpeta sin título 2.dll
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/refint/carpeta sin título 2.dll
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/carpeta sin título 2.pdb
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/carpeta sin título 2.genruntimeconfig.cache
+/Users/bert/Desktop/carpeta sin título 2/obj/Debug/net9.0/ref/carpeta sin título 2.dll
