@@ -1,0 +1,14 @@
+/Users/bert/Desktop/prograAc6/bin/Debug/net9.0/prograAc6
+/Users/bert/Desktop/prograAc6/bin/Debug/net9.0/prograAc6.deps.json
+/Users/bert/Desktop/prograAc6/bin/Debug/net9.0/prograAc6.runtimeconfig.json
+/Users/bert/Desktop/prograAc6/bin/Debug/net9.0/prograAc6.dll
+/Users/bert/Desktop/prograAc6/bin/Debug/net9.0/prograAc6.pdb
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/prograAc6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/prograAc6.AssemblyInfoInputs.cache
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/prograAc6.AssemblyInfo.cs
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/prograAc6.csproj.CoreCompileInputs.cache
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/prograAc6.dll
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/refint/prograAc6.dll
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/prograAc6.pdb
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/prograAc6.genruntimeconfig.cache
+/Users/bert/Desktop/prograAc6/obj/Debug/net9.0/ref/prograAc6.dll

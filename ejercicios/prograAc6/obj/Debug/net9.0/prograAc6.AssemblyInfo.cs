@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("carpeta sin título 2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("prograAc6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb1d2e3371ffb612ddef857be68b574ef1f83f80")]
-[assembly: System.Reflection.AssemblyProductAttribute("carpeta sin título 2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("carpeta sin título 2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("prograAc6")]
+[assembly: System.Reflection.AssemblyTitleAttribute("prograAc6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
