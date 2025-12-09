@@ -1,0 +1,14 @@
+/Users/bert/Desktop/Poke/bin/Debug/net9.0/Poke
+/Users/bert/Desktop/Poke/bin/Debug/net9.0/Poke.deps.json
+/Users/bert/Desktop/Poke/bin/Debug/net9.0/Poke.runtimeconfig.json
+/Users/bert/Desktop/Poke/bin/Debug/net9.0/Poke.dll
+/Users/bert/Desktop/Poke/bin/Debug/net9.0/Poke.pdb
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/Poke.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/Poke.AssemblyInfoInputs.cache
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/Poke.AssemblyInfo.cs
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/Poke.csproj.CoreCompileInputs.cache
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/Poke.dll
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/refint/Poke.dll
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/Poke.pdb
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/Poke.genruntimeconfig.cache
+/Users/bert/Desktop/Poke/obj/Debug/net9.0/ref/Poke.dll
